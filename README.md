@@ -5,3 +5,5 @@ This is a proof of concept repository to demonstrate the use of release-please w
 The repository contains two release branches:
 - `alpha`: This branch is for the alpha releases.
 - `beta`: This branch is for the beta releases.
+
+The `release-please` GitHub Action is configured to create releases for both branches based on the commits made to each branch.

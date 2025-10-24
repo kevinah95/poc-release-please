@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0-beta.2](https://github.com/kevinah95/poc-release-please/compare/v0.2.0-beta.1...v0.2.0-beta.2) (2025-10-24)
+
+
+### Bug Fixes
+
+* :bug: fix README ([4402511](https://github.com/kevinah95/poc-release-please/commit/4402511d680a7e46183b2752ab6fe96141c17d1e))
+
 ## [0.2.0](https://github.com/kevinah95/poc-release-please/compare/v0.1.0...v0.2.0) (2025-10-24)
 
 
