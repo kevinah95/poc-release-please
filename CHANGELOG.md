@@ -1,5 +1,27 @@
 # Changelog
 
+## [1.0.0-alpha.1](https://github.com/kevinah95/poc-release-please/compare/v0.2.0-alpha.1...v1.0.0-alpha.1) (2025-10-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* New implementation
+
+### Features
+
+* :boom: update README to clarify usage instructions for release-please ([a6ef4a7](https://github.com/kevinah95/poc-release-please/commit/a6ef4a7605e0c000f35ffcc0aaec8342069d31ae))
+
+## [1.0.0-beta.2](https://github.com/kevinah95/poc-release-please/compare/v0.2.0-beta.2...v1.0.0-beta.2) (2025-10-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* New implementation
+
+### Features
+
+* :boom: update README to clarify usage instructions for release-please ([a6ef4a7](https://github.com/kevinah95/poc-release-please/commit/a6ef4a7605e0c000f35ffcc0aaec8342069d31ae))
+
 ## [0.2.1](https://github.com/kevinah95/poc-release-please/compare/v0.2.0...v0.2.1) (2025-10-24)
 
 
