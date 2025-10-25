@@ -11,3 +11,7 @@ The `release-please` GitHub Action is configured to create releases for both bra
 ## Usage
 
 To trigger a release, simply push commits to either the `alpha` or `beta` branch. The `release-please` action will automatically create a new release based on the commit messages.
+
+## Configuration
+
+The `release-please` action is configured in the `.github/workflows/release-please.yml` file. You can customize the configuration to suit your needs.
