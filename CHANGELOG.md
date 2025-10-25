@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0-beta.3](https://github.com/kevinah95/poc-release-please/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2025-10-25)
+
+
+### Features
+
+* :sparkles: update README to include configuration details for release-please ([98c7129](https://github.com/kevinah95/poc-release-please/commit/98c7129f56917104526ceea01d3c8ecd1f53ab96))
+
 ## [1.0.0](https://github.com/kevinah95/poc-release-please/compare/v0.2.1...v1.0.0) (2025-10-24)
 
 
